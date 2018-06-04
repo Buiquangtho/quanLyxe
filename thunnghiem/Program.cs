@@ -12,6 +12,7 @@ namespace thunnghiem
         {
 
             //lan 1
+            //lan 2
         }
 
     }
